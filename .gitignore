@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated practice videos (TTS narration, not for submission)
+practice_videos/
+*.mp4
+*.wav
+
+# Large course files not needed for the assignment
+access_log.txt
+emails.zip
